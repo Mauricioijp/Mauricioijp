@@ -71,8 +71,8 @@ Cloud Gateway - FastAPI - REST APIs - JWT
 ## Connect with Me
 
 -   **GitHub:** https://github.com/Mauricioijp
--   **LinkedIn:** \[Add your LinkedIn URL\]
--   **Email:** \[Add your professional email\]
+-   **LinkedIn:** www.linkedin.com/in/mauricio-juárez-proaño-9a550133b
+-   **Email:** mjuarezp@pucp.edu.pe
 
 ------------------------------------------------------------------------
 
